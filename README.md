@@ -8,4 +8,4 @@
 ![](https://github.com/alein249/ScrollingText/blob/master/app/src/main/res/drawable/scrolltext2.jpg)
 
 
-[link](https://github.com/alein249/ScrollingText/blob/master/app/release/app-release.apk)
+
